@@ -1,2 +1,2 @@
 # mst-bedrock
-Bedrock AKS cluster Implementation
+Bedrock AKS cluster Implementation Repository
